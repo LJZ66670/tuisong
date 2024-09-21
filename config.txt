@@ -5,9 +5,9 @@
 # 公众号appSecret
 "app_secret": "d2d9a6a926681f73cc4251ee8a89a142",
 # 模板消息id
-"template_id": "6XqBaK4_hblBpobDG6CwasUxodvq-wO_ugBjSwMgU2A",
+"template_id": "VrWIiikLqI-ahKv4z4eZSntVjgj6cM85TV9JsMVLILg",
 # 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
-"user": ["oZVTf6QKo4hn6fuDiGKFX5YCgZlc","oZVTf6VjJH43cHDc_eFsS8wwoXFM"],
+"user": ["oZVTf6VjJH43cHDc_eFsS8wwoXFM","oZVTf6Rhn1R0eXljcTKMKnqy-Zx4"],
 
 # 信息配置
 # 和风天气apikey
@@ -15,13 +15,13 @@
 # 天行数据apikey
 "tian_api": "8cf3627bca3367c25eaa1f66a0beac76",
 # 所在地区，可为省，城市，区，县，同时支持国外城市，例如伦敦(国外城市可能获取不到pm2.5，空气质量，今日建议等数据)
-"region": "青县",
+"region": "石家庄",
 # 生日
-"birthday1": {"name": "小香椿", "birthday": "2002-02-26"},
+"birthday1": {"name": "蛋挞", "birthday": "2002-11-15"},
 # 在一起的日子，格式同上
-"love_date": "2023-09-06",
+"love_date": "2024-08-29",
 # 金句中文，如果为空，默认会读取金山的每日金句
-"note_ch": "新的一天,要好好学习,要开心快乐,奥利给!",
+"note_ch": "蛋挞,你要好好学习开心快乐,皮蛋陪着你!",
 # 金句英文
 "note_en": ""
 }
